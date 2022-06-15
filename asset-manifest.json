@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/andrustn85/react-calculator.git/static/css/main.a9db8a87.css",
+    "main.js": "/andrustn85/react-calculator.git/static/js/main.97c97d7e.js",
+    "static/media/numbers.jpeg": "/andrustn85/react-calculator.git/static/media/numbers.32692162b97fd1b3cf6a.jpeg",
+    "index.html": "/andrustn85/react-calculator.git/index.html",
+    "main.a9db8a87.css.map": "/andrustn85/react-calculator.git/static/css/main.a9db8a87.css.map",
+    "main.97c97d7e.js.map": "/andrustn85/react-calculator.git/static/js/main.97c97d7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9db8a87.css",
+    "static/js/main.97c97d7e.js"
+  ]
+}
